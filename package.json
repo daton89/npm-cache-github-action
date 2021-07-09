@@ -1,0 +1,23 @@
+{
+  "name": "npm-cache-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daton89/npm-cache-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daton89/npm-cache-github-action/issues"
+  },
+  "homepage": "https://github.com/daton89/npm-cache-github-action#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
