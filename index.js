@@ -6,6 +6,4 @@ function sum (list) {
     return total
 }
 
-
 module.exports = { sum }
-
