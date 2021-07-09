@@ -38,8 +38,8 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
           
-      - name: npm install
-        run: npm install
+      - name: npm install --cache
+        run: npm install --cache
 
       - name: npm t
         run: npm t
